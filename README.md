@@ -1,2 +1,2 @@
 # -greeting-card-JK-s25
-my greeting
+my greeting card
